@@ -1,0 +1,5 @@
+movie: Не может быть
+tv series: Game of thrones
+food: dolma
+season: summer
+country: USA

@@ -1,0 +1,6 @@
+Skills:
+- terminal
+- git
+- postman
+- JS
+- VScode
