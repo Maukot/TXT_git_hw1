@@ -1,0 +1,4 @@
+full name: Stoliarova Liubov
+age: 33
+pet number: 0
+salary: 1000$
